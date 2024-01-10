@@ -1,30 +1,30 @@
 ###### Translations here #######
 
 # SEO
-title: "PapaKoala: Exercices de stimulation précoce pour bébés, faciles à réaliser"
-tagline: Exercices de stimulation précoce pour bébés, faciles à réaliser
-description: Activités de stimulation précoce pour les bébés afin de favoriser le développement du cerveau, de fournir des expériences sensorielles précoces et de créer un sentiment de confiance.
+title: "PapaKoala: शिशुओं के लिए शुरुआती उत्तेजना अभ्यास आसान बनाएँ"
+tagline: शुरुआती उत्तेजना अभ्यास शिशुओं के लिए आसान बनाएँ
+description: शिशुओं के लिए शुरुआती उत्तेजना गतिविधियाँ, मस्तिष्क विकास को बढ़ावा देती हैं, शुरुआती संवेदी अनुभव प्रदान करती हैं और विश्वास की भावना का निर्माण करती हैं।
+#page title
+page_title: "अपने छोटे से जीनियस को पोषण दें: PapaKoala's Early Stimulation Journey की खोज करें"
+app_name: "PapaKoala: Newborn development"
+app_price: सब्सक्रिप्शन आधारित
+app_subtitle: PapaKoala के साथ 0 से 1 साल के शिशुओं के लिए बौद्धिक शक्ति और बंधन यात्रा पर जाएं।
+app_description: "शिशुओं के मस्तिष्क विकास के लिए शुरुआती वर्ष असाधारण अवसर का एक खिड़की हैं। यह उनकी बौद्धिक क्षमता को प्रज्वलित करने और जीवन भर के सीखने का आधार रखने का समय है। \nPapaKoala, आपकी व्यक्तिगत प्रारंभिक उत्तेजना मार्गदर्शिका, आपको अपने छोटे बच्चे के संज्ञानात्मक विकास का पोषण करने और उनके साथ गहरी भावनात्मक बंधन बनाने में सक्षम बनाती है।"
 
-# page title
-page_title: "Cultivez votre petit génie: Découvrez le parcours de stimulation précoce de PapaKoala"
-app_name: "PapaKoala: Développement du nouveau-né"
-app_price: Basé sur un abonnement
-app_subtitle: Embarquez dans un voyage de puissance cérébrale et de connexion avec PapaKoala pour les bébés de 0 à 1 an.
-app_description: "Les premières années sont une fenêtre d'opportunité exceptionnelle pour le développement du cerveau d'un bébé. C'est le moment idéal pour allumer leur potentiel intellectuel et jeter les bases d'un apprentissage à vie.\nPapaKoala, votre guide personnel de stimulation précoce, vous permet de nourrir la croissance cognitive de votre tout-petit et de créer une profonde connexion émotionnelle avec lui."
-
-# Caractéristiques              Editez, ajoutez ou supprimez des fonctionnalités à présenter.
+# Feature List       Edit, add or remove features to be presented.
 features:
-    - title: Libérez le pouvoir de la stimulation précoce
-      description: Immergez votre bébé dans un monde d'expériences stimulantes qui favorisent son développement cérébral et éveillent ses sens. Les activités soigneusement sélectionnées de PapaKoala, guidées par des recherches développementales expertes, introduisent votre petit à une symphonie de couleurs, de sons et de toucher, stimulant ses voies neurales et posant les bases du succès futur.
-      fontawesome_icon_name: baby
+  - title: "प्रारंभिक उत्तेजना की शक्ति अनलॉक करें"
+    description: "अपने बच्चे को एक ऐसी दुनिया में डुबोएं जो उनकी मस्तिष्क विकास और इंद्रियों को जागृत करने के लिए उत्तेजक अनुभव प्रदान करती है। PapaKoala के सावधानीपूर्वक तैयार किए गए गतिविधियां, विशेषज्ञ विकासात्मक शोध द्वारा निर्देशित, आपके बच्चे को दृश्यों, ध्वनियों और स्पर्श की एक सिम्फनी से परिचित कराती हैं, उनकी तंत्रिका मार्गों को उत्तेजित करती हैं और भविष्य की सफलता के लिए आधार तैयार करती हैं."
+    fontawesome_icon_name: baby
 
-    - title: Découvrez le plaisir de l'apprentissage interactif
-      description: Dites adieu aux exercices monotones et adoptez la nature amusante et engageante des activités interactives de PapaKoala. Nos tutoriels vidéo basés sur des vidéos fournissent des directives claires et rendent l'apprentissage une expérience agréable pour les parents et les bébés.
-      fontawesome_icon_name: brain
+  - title: "इंटरैक्टिव सीखने का आनंद लें"
+    description: "नीरस अभ्यासों को अलविदा कहें और PapaKoala के इंटरैक्टिव गतिविधियों की मजेदार और आकर्षक प्रकृति को गले लगाएं। हमारे वीडियो-आधारित ट्यूटोरियल स्पष्ट मार्गदर्शन प्रदान करते हैं और माता-पिता और शिशुओं दोनों के लिए सीखने को एक आनंददायक अनुभव बनाते हैं."
+    fontawesome_icon_name: brain
 
-    - title: Nourritez un lien d'amour et de confiance
-      description: La stimulation précoce ne se limite pas au développement cognitif; il s'agit de créer un lien sécurisant et aimant entre vous et votre bébé. Les activités de PapaKoala mettent l'accent sur le toucher, la forme la plus fondamentale d'engagement d'un enfant, favorisant la confiance, la sécurité et une profonde connexion émotionnelle.
-      fontawesome_icon_name: heart
+  - title: "प्रेम और विश्वास का बंधन पोषण करें"
+    description: "प्रारंभिक उत्तेजना संज्ञानात्मक विकास से परे है; यह आपके और आपके बच्चे के बीच एक सुरक्षित और प्यार भरा बंधन बनाने के बारे में है। PapaKoala की गतिविधियाँ स्पर्श पर जोर देती हैं, जो शिशु के जुड़ाव का सबसे बुनियादी रूप है, विश्वास, सुरक्षा और गहरी भावनात्मक बंधन को बढ़ावा देती है।"
+    fontawesome_icon_name: heart
+
 
 
 
